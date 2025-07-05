@@ -10,8 +10,11 @@ Copy sample.env to .env and fill in the variables there.
 <b>Powershell:</b>
 <pre>Copy-Item sample.env .env</pre>
 
-## Running
-To run the use the command below:
+## Set Up
+Install the depencies by running:
+<pre>./gradlew build</pre>
+
+And run your bot by using the command below:
 <pre>./gradlew run</pre>
 
 ## Deploying
