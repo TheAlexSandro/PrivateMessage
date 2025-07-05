@@ -1,5 +1,5 @@
 # Private Message
-Private message is a bot similar to whisper, except that it's built in Java!
+Private message is a bot similar to whisper, except that it's built in Java! <a href="https://t.me/PvtMsgBot">@PvtMsgBot</a>
 
 ## Beginning
 Copy sample.env to .env and fill in the variables there.
